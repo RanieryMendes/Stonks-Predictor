@@ -13,14 +13,11 @@
 This project leverages natural language processing (NLP) and ma- chine learning techniques to analyze and classify posts from the r/WallStreetBets subreddit, aiming to distinguish between informa- tive financial discussions and less substantive posts, colloquially known as "shitposts."[ 1 ](#_page0_x56.72_y625.45)Utilizing a dataset extracted from Reddit,
 encompassing over 300,000 posts filtered by relevance to stock mentions and financial outcomes, we apply a variety of models including Naive Bayes, K-Means clustering, a Simple Feed Forward Neural Network (SFFN), an LSTM, and a Transformer model to pre- dict potential positive returns based on historical data. This study![](Aspose.Words.2f3ba6b9-5dbc-46c9-aa6e-367bb907cd50.002.png)
 
-1The term "shitpost" is used here to describe content that is typically of low quality or relevance. It is recognized as colloquial and somewhat informal language within online communities. The use of this term is intended for analytical accuracy based on common usage and is not meant to offend or distract from the professionalism of the report.![](Aspose.Words.2f3ba6b9-5dbc-46c9-aa6e-367bb907cd50.003.png)
-
-'
+DISCLAIMER: The term "shitpost" is used here to describe content that is typically of low quality or relevance. It is recognized as colloquial and somewhat informal language within online communities. The use of this term is intended for analytical accuracy based on common usage and is not meant to offend or distract from the professionalism of the report.![](Aspose.Words.2f3ba6b9-5dbc-46c9-aa6e-367bb907cd50.003.png)
 
 
 #### 1 INTRODUCTION
 
-<a name="_page0_x56.72_y625.45"></a>A brief discussion of the selected problem and dataset.
 
 ##### 1. Problem Statement
 
@@ -142,7 +139,7 @@ The most performant set of models trained to classify r/WallStreet- Bets posts a
 
 We would like to thank Dr.Pauca for his help and guidance. Also, we are highly appreciative of TA Benjamin Hezrony for his assistance to Dr. Pauca and the students. We also would like to acknowledge the use of LLMs (Primarily, OpenAI's ChatGPT) for debugging our code.
 
-<a name="_page5_x317.96_y308.59"></a>REFERENCES
+#### REFERENCES
 
 1. Tejpal Abhyuday. 2020. Part 1: Transformers - Working of Encoder Block.[ https://medium.com/@tejpal.abhyuday/part-1-transformers-working-of- encoder-block-67655545081f](https://medium.com/@tejpal.abhyuday/part-1-transformers-working-of-encoder-block-67655545081f)<a name="_page5_x317.96_y332.50"></a>.
 1. Jian Huang, Junyi Chai, and Stella Cho. 2020. Deep Learning in Finance and Banking: A Literature Review and Classification. Frontiers of Business Research in China 14, 13 (2020).
